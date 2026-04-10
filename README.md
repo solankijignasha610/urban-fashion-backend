@@ -49,7 +49,7 @@ npm start
 
 ## 🌐 Deployment
 
-Frontend: (Netlify link)
+Frontend: (Netlify link) <br>
 Backend: (Render link)
 
 ---
